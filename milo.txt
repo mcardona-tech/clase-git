@@ -1,2 +1,4 @@
 hola mundo
 esta es la version 2.0 - este es el segundo commit
+
+Juanka estuvo aquí
